@@ -1,5 +1,4 @@
-### The project consists of some codes on RPI communication with 
-### Zigbee,elmeasure_meter through implementation of the following:
+### The project consists of some codes on RPI communication with Zigbee,elmeasure_meter through implementation of the following:
 - Reading and sending data to Zigbee
 - Plotting graph of the data
 - Mailing data periodically
